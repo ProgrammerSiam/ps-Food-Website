@@ -1,6 +1,6 @@
 ### Demo Screeshots
   <a href="#" target="_blank">
-      <img src="https://i.ibb.co/Fhc9hC1/okPost.jpg" alt="Project Banner">
+      <img src="https://i.ibb.co/NxgryH9/github-banner.jpg" alt="Project Banner">
     </a>
 
 ## Prerequisites
@@ -14,13 +14,13 @@ To run **Ecommerce-Website** locally, run this command on your git bash:
 Linux and macOS:
 
 ```bash
-sudo git clone https://github.com/ProgrammerSiam/ps-Ecommerce-Website.git
+sudo git clone https://github.com/ProgrammerSiam/ps-Food-Website.git
 ```
 
 Windows:
 
 ```bash
-git clone https://github.com/ProgrammerSiam/ps-Ecommerce-Website.git
+git clone https://github.com/ProgrammerSiam/ps-Food-Website.git
 ```
 
 
